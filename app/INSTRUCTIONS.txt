@@ -1,1 +1,0 @@
-Install packages then using: npm start
