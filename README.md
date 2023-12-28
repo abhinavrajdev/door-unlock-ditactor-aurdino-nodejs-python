@@ -5,6 +5,8 @@ This project utilizes aurdino to detect if a certain value of analogue signal ha
 
 HOW T USE ??
 
+>> First install all packages using: npm i <<
+
 1. Run the python script
 2. Run the node file.
 3. Use the front end to send the request.
