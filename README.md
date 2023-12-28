@@ -5,10 +5,15 @@ This project utilizes aurdino to detect if a certain value of analogue signal ha
 
 HOW T USE ??
 
->> First install all packages using: npm i <<
+>> First  and  <<
 
-1. Run the python script
-2. Run the node file.
-3. Use the front end to send the request.
+1. Upload the sketch to your Arduino board.
+2. Install all packages using: npm i.
+3. Run the python script and keep it running.
+4. Start the node server and keep it running.
+5. Use the front end to contact to node Server.
+
+NOTE:- You might need to change the Arduino code to convert analogue signal to digital signal and send it throught Serial communication,
+and set port carefully, ( here I am using macbook air m1 with a USB to type C convertor. ).
 
 DONE !!!
